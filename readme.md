@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# Transitive Bullsh.it
+# TransitiveBullsh.it
 
 The main repo for my website is over at [nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit).
 
